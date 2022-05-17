@@ -13,7 +13,6 @@ I believe that open-source and libre software helps the mankind to develop more 
 
 [![Website](https://img.shields.io/static/v1?label=&message=Website&color=black&style=for-the-badge)](https://walitoff.com)
 [![Email](https://img.shields.io/static/v1?label=&message=Email&color=blueviolet&style=for-the-badge)](mailto:ramil@walitoff.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ramil.valitov/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramilvalitov/)
 
 ### My GitHub Metrics
