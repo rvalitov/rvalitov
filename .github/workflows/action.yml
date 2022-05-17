@@ -28,7 +28,7 @@ jobs:
           base: activity, repositories, metadata
           config_display: regular
           config_octicon: yes
-          config_timezone: Europe/Moscow
+          config_timezone: Europe/Paris
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_ignored: follower, automator
