@@ -131,14 +131,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 752kb of code in 382 edited files across 38 commits over last 89 days</small>
+                <small>estimation from 753kb of code in 382 edited files across 38 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.28903369407504" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="418.28903369407504" y="0" width="41.710966305924934" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.5295030092449" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="418.5295030092449" y="0" width="41.4704969907551" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -150,9 +150,9 @@
                                 PHP
                             </div>
                             <small>
-                                <div>5.24k lines</div>
-                                <div>174 kB</div>
-                                <div>90.93%</div>
+                                <div>5.29k lines</div>
+                                <div>175 kB</div>
+                                <div>90.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -165,7 +165,7 @@
                             <small>
                                 <div>598 lines</div>
                                 <div>17.4 kB</div>
-                                <div>9.07%</div>
+                                <div>9.02%</div>
                             </small>
                         </div>
                     </section>
@@ -549,6 +549,7 @@
                                 </g>
                                 <g transform="translate(585, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -2083,7 +2084,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.094113620807672 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.136550308008218 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2315,7 +2316,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 245k out of 98m users</span>
+                                    <span class="gh">ranked 246k out of 98m users</span>
                                 </div>
                                 <div class="text">Followed by 36 users</div>
                             </div>
@@ -2537,7 +2538,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2022, 06:59:17 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 27 Sept 2022, 06:43:48 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
