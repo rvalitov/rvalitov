@@ -131,16 +131,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.75mb of code in 1327 edited files across 99 commits over last 89 days</small>
+                <small>estimation from 2.72mb of code in 1304 edited files across 93 commits over last 87 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.96147891245124" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="318.96147891245124" y="0" width="54.06856206521732" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="373.0300409776686" y="0" width="45.589920546074374" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="418.6199615237429" y="0" width="41.380038476257056" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="317.99288645476054" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="317.99288645476054" y="0" width="54.43988190756054" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="372.4327683623211" y="0" width="45.90301269173177" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="418.33578105405286" y="0" width="41.66421894594713" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -152,9 +152,9 @@
                                 PHP
                             </div>
                             <small>
-                                <div>29.3k lines</div>
-                                <div>1.07 MB</div>
-                                <div>69.34%</div>
+                                <div>29.1k lines</div>
+                                <div>1.06 MB</div>
+                                <div>69.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -167,7 +167,7 @@
                             <small>
                                 <div>5.36k lines</div>
                                 <div>180 kB</div>
-                                <div>11.75%</div>
+                                <div>11.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -180,7 +180,7 @@
                             <small>
                                 <div>4.74k lines</div>
                                 <div>152 kB</div>
-                                <div>9.91%</div>
+                                <div>9.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -193,7 +193,7 @@
                             <small>
                                 <div>4.86k lines</div>
                                 <div>138 kB</div>
-                                <div>9%</div>
+                                <div>9.06%</div>
                             </small>
                         </div>
                     </section>
@@ -338,6 +338,7 @@
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1924,7 +1925,7 @@ These warnings are coming from AndroidX (
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.509240246406563 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.551676933607112 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2176,7 +2177,7 @@ These warnings are coming from AndroidX (
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 561k out of 387m repositories</span>
+                                    <span class="gh">ranked 561k out of 388m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 19 times</div>
                             </div>
@@ -2266,7 +2267,7 @@ These warnings are coming from AndroidX (
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 427k out of 387m repositories</span>
+                                    <span class="gh">ranked 427k out of 388m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 64 stars</div>
                             </div>
@@ -2450,7 +2451,7 @@ These warnings are coming from AndroidX (
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2023, 04:18:01 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 26 Mar 2023, 05:20:47 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
