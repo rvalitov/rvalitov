@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4101 Commits
+                            4103 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -131,17 +131,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.37mb of code in 2520 edited files across 365 commits over last 86 days</small>
+                <small>estimation from 5.37mb of code in 2529 edited files across 368 commits over last 87 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.47096674719637" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="339.47096674719637" y="0" width="49.08770464913167" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="388.55867139632807" y="0" width="31.727531188165567" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="420.2862025844936" y="0" width="27.772777347818675" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="448.0589799323123" y="0" width="11.941020067687688" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.44629469055275" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="339.44629469055275" y="0" width="49.04266925975123" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="388.48896395030397" y="0" width="31.855377329127347" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="420.3443412794313" y="0" width="27.732119613356694" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="448.076460892788" y="0" width="11.923539107212006" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -155,7 +155,7 @@
                             <small>
                                 <div>57.3k lines</div>
                                 <div>2.21 MB</div>
-                                <div>73.8%</div>
+                                <div>73.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -168,7 +168,7 @@
                             <small>
                                 <div>9.92k lines</div>
                                 <div>319 kB</div>
-                                <div>10.67%</div>
+                                <div>10.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -179,9 +179,9 @@
                                 CSS
                             </div>
                             <small>
-                                <div>7.53k lines</div>
-                                <div>206 kB</div>
-                                <div>6.9%</div>
+                                <div>7.59k lines</div>
+                                <div>207 kB</div>
+                                <div>6.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -194,7 +194,7 @@
                             <small>
                                 <div>5.36k lines</div>
                                 <div>180 kB</div>
-                                <div>6.04%</div>
+                                <div>6.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -207,7 +207,7 @@
                             <small>
                                 <div>2.50k lines</div>
                                 <div>77.7 kB</div>
-                                <div>2.6%</div>
+                                <div>2.59%</div>
                             </small>
                         </div>
                     </section>
@@ -377,6 +377,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1996,7 +1997,7 @@ I purchased PRO and became disappointed in in 10 minutes 😭 . How an email ser
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.04243668720055 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.084873374401095 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2057,7 +2058,7 @@ I purchased PRO and became disappointed in in 10 minutes 😭 . How an email ser
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.04m out of 112m users</span>
+                                    <span class="gh">ranked 1.04m out of 113m users</span>
                                 </div>
                                 <div class="text">Published 35 public repositories</div>
                             </div>
@@ -2261,7 +2262,7 @@ I purchased PRO and became disappointed in in 10 minutes 😭 . How an email ser
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 361k out of 112m users</span>
+                                    <span class="gh">ranked 362k out of 113m users</span>
                                 </div>
                                 <div class="text">Followed by 30 users</div>
                             </div>
@@ -2483,7 +2484,7 @@ I purchased PRO and became disappointed in in 10 minutes 😭 . How an email ser
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2023, 05:17:29 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Apr 2023, 05:17:49 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
