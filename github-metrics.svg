@@ -131,7 +131,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.61mb of code in 1610 edited files across 347 commits over last 55 days</small>
+                <small>estimation from 3.61mb of code in 1610 edited files across 347 commits over last 56 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -418,6 +418,7 @@
                                 </g>
                                 <g transform="translate(315, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -2031,7 +2032,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.381930184804922 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.42436687200547 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2092,7 +2093,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.01m out of 116m users</span>
+                                    <span class="gh">ranked 1.02m out of 116m users</span>
                                 </div>
                                 <div class="text">Published 36 public repositories</div>
                             </div>
@@ -2244,7 +2245,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 571k out of 402m repositories</span>
+                                    <span class="gh">ranked 571k out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 19 times</div>
                             </div>
@@ -2369,7 +2370,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 433k out of 402m repositories</span>
+                                    <span class="gh">ranked 433k out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 65 stars</div>
                             </div>
@@ -2518,7 +2519,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2023, 05:18:53 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 May 2023, 05:17:16 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
