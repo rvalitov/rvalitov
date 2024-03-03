@@ -131,14 +131,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 405kb of code in 247 edited files across 109 commits over last 90 days</small>
+                <small>estimation from 357kb of code in 212 edited files across 93 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.9396939693969" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="347.9396939693969" y="0" width="112.06030603060306" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="345.12488786061664" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="345.12488786061664" y="0" width="114.87511213938335" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -150,9 +150,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>453 lines</div>
-                                <div>16.8 kB</div>
-                                <div>75.64%</div>
+                                <div>429 lines</div>
+                                <div>15.8 kB</div>
+                                <div>75.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -163,9 +163,9 @@
                                 PHP
                             </div>
                             <small>
-                                <div>130 lines</div>
-                                <div>5.41 kB</div>
-                                <div>24.36%</div>
+                                <div>126 lines</div>
+                                <div>5.29 kB</div>
+                                <div>24.97%</div>
                             </small>
                         </div>
                     </section>
@@ -288,6 +288,7 @@
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1821,7 +1822,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.782340862423 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.86721423682407 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2069,7 +2070,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 619k out of 82.2m repositories</span>
+                                    <span class="gh">ranked 620k out of 76.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 19 times</div>
                             </div>
@@ -2121,7 +2122,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 419k out of 131m users</span>
+                                    <span class="gh">ranked 420k out of 131m users</span>
                                 </div>
                                 <div class="text">Followed by 31 users</div>
                             </div>
@@ -2159,7 +2160,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 470k out of 82.2m repositories</span>
+                                    <span class="gh">ranked 470k out of 76.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 67 stars</div>
                             </div>
@@ -2273,7 +2274,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2024, 04:06:16 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Mar 2024, 04:06:03 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
