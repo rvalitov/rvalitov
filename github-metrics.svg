@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1903" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1863" class="">
     <defs>
         <style/>
     </defs>
@@ -131,18 +131,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 66.8kb of code in 138 edited files across 93 commits over last 89 days</small>
+                <small>estimation from 62.5kb of code in 127 edited files across 84 commits over last 87 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="242.11709510311798" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="242.11709510311798" y="0" width="93.17499104030234" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="335.2920861434203" y="0" width="46.60997621607533" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="381.90206235949563" y="0" width="40.28540709608054" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="422.18746945557615" y="0" width="25.058482390121526" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="447.2459518456977" y="0" width="12.754048154302284" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.6723871252854" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="273.6723871252854" y="0" width="105.31855343595787" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="378.9909405612433" y="0" width="52.684687338881936" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="431.6756279001252" y="0" width="28.324372099874786" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -156,7 +154,7 @@
                             <small>
                                 <div>440 lines</div>
                                 <div>16.1 kB</div>
-                                <div>52.63%</div>
+                                <div>59.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -169,7 +167,7 @@
                             <small>
                                 <div>153 lines</div>
                                 <div>6.22 kB</div>
-                                <div>20.26%</div>
+                                <div>22.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -182,20 +180,7 @@
                             <small>
                                 <div>175 lines</div>
                                 <div>3.11 kB</div>
-                                <div>10.13%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TypeScript
-                            </div>
-                            <small>
-                                <div>67 lines</div>
-                                <div>2.69 kB</div>
-                                <div>8.76%</div>
+                                <div>11.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -208,20 +193,7 @@
                             <small>
                                 <div>74 lines</div>
                                 <div>1.67 kB</div>
-                                <div>5.45%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                HTML
-                            </div>
-                            <small>
-                                <div>24 lines</div>
-                                <div>851 bytes</div>
-                                <div>2.77%</div>
+                                <div>6.16%</div>
                             </small>
                         </div>
                     </section>
@@ -351,6 +323,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1901,7 +1874,7 @@ Regarding update intervals - it's documented in the docs https://www.home-assist
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.20670773442845 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.29158110882958 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1962,7 +1935,7 @@ Regarding update intervals - it's documented in the docs https://www.home-assist
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.12m out of 131m users</span>
+                                    <span class="gh">ranked 1.13m out of 131m users</span>
                                 </div>
                                 <div class="text">Published 37 public repositories</div>
                             </div>
@@ -2193,7 +2166,7 @@ Regarding update intervals - it's documented in the docs https://www.home-assist
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 471k out of 81.9m repositories</span>
+                                    <span class="gh">ranked 472k out of 84.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 67 stars</div>
                             </div>
@@ -2307,7 +2280,7 @@ Regarding update intervals - it's documented in the docs https://www.home-assist
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2024, 04:05:45 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Mar 2024, 04:06:09 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
