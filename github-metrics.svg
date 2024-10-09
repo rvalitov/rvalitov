@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2136" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2118" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.low{color:#e53935}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -38,13 +38,13 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            12 Issues opened
+                            13 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            699 issue comments
+                            700 issue comments
                         </div>
                     </section>
                 </div>
@@ -131,7 +131,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 204kb of code in 282 edited files across 74 commits over last 89 days</small>
+                <small>estimation from 204kb of code in 282 edited files across 74 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -596,6 +596,7 @@
                                 <g transform="translate(600, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -2034,194 +2035,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#127556 [Starline integration] unit of measurement for OBD errors has changed</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">home-assistant/core</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#93470 Starline: "hand break" sensor is always OFF</span>
+                                        <span class="issue">#129 4-pin connection</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by ildar170975 in <span class="repo">home-assistant/core</span></div>
-                                    <div class="comment">@Anonym-tsk any update on this? 6 months have passed, still no response from Starline? Perhaps you should remind them about this issue please?</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#18856 [New device support]: Aqara wireless relay controller T2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by manbading in <span class="repo">Koenkk/zigbee2mqtt</span></div>
-                                    <div class="comment">
-                                        @pswel1 thank you for reading and finding the typo about
-                                        <code>S2</code>
-                                        ! I updated the text.
-                                        <i>Instead I'm using two sensors, so I (should) receive a "single_l1" for closed and a "single_l2" for open.</i>
-                                        Sure, this will work if you have different sensors (not the same model/version), i.e. one that triggers the "open" state, another one that triggers the "closed" state.
-                                        <i>However, my primary question is - the COM/S1/S2 seem to be passing AC current (matches voltage across L/N). This wasn't compatible with my magnetic sensors. The mag sensors do work in DC mode, but then the S1/S2 do not recognize a connection to COM when the T2 unit is powered by DC. Are your magnetic sensors working despite AC?</i>
-                                        Good question. Indeed, most magnetic sensor's technical requirements say that they work with 10-30V DC. Some googling shows that there are also AC-compatible magnetic sensors, but it seems rather a rare case. I used a cheap magnetic sensor that costs 2-3$ maximum. I doubt that it is AC-compatible. It has very thin wires, so I think it also proves that it is intended for low voltage and current. However, in my tests it worked. I was testing the sensor not for a long time, perhaps one hour maximum, just to confirm that it works and that there's no way to handle my situation just with one sensor. After that I removed it. During this test the sensor always worked, there were no "false-positive" events, or "missed" events, and the wires, nor the sensor became hot - I checked the temperature. I think the wires should be checked with multi-meter to confirm that it's AC. I'm pretty sure the parameters at S1 and S2 should match the incoming power line: if it's AC then it's AC, if it's DC then it's DC, because T2 does not have any built-in AC/DC transformer. In my tests the sensor only worked in
-                                        <code>momentary</code>
-                                        switch type,
-                                        <code>toggle</code>
-                                        or
-                                        <code>none</code>
-                                        did not pass the events from the sensor.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#18856 [New device support]: Aqara wireless relay controller T2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by manbading in <span class="repo">Koenkk/zigbee2mqtt</span></div>
-                                    <div class="comment">
-                                        Ok, below is my story how I configured Aqara T2 to work in garage. I've been using it almost for one year, so I guess I can share my experience now. The Aqara T2 module with some limitations is able to:
+                                    <div>opened by rvalitov in <span class="repo">GrKoR/esphome_aux_ac_component</span></div>
+                                    <div class="comment">Thank you so much for a prompt response! Well, a good question. Now you made me doubt it, so I checked some more, let me share my investigation. 
 
-remotely open and close my garage door
-open and close garage door using standard physical switch
-get information if door is open/closed using standard wired magnetic sensor.
+The model is Energolux CHAMPERY SAS07CH1-AI. 
+The supported WiFi adapter according to the manufacturer is Energolux SIW7.9.12G1 Wi-Fi. 
+According to the manual the app to install is EWPE Smart.
 
-My setup scheme is below:
-
-Scheme and comments
-
-Aqara T2 is connected to AC power line, 220V in my case, using terminal points
-                                        <code>L</code>
-                                        and
-                                        <code>N</code>
-                                        . Now it's available via Z2M.
-Terminal points
-                                        <code>L1</code>
-                                        and
-                                        <code>LOUT</code>
-                                        are connected to the garage door opener - your motor/control unit, check your device manual. In manual it's written how to connect a switch that controls the garage door. For most garage motors the logic is simple: when 2 wires are connected for short period of time it gives the signal to the motor to start or stop. After each stop the motor changes the direction: it either opens or closes the door. It's very simple and you don't need to respect the polarity of wires: just connect them to the terminal points in any order. You can first test that your motor works correctly by connecting the wires by hand, and if that works, then connect the wires to Aqara T2.
-A light switch is connected to Aqara T2 using terminal points
-                                        <code>S1</code>
-                                        and
-                                        <code>COM</code>
-                                        . It does not matter the polarity of the wires, just connect them. It's important to use a light switch which is rocker-type. Visually they look the same. But the logic is that for rocker-type switch there's no "ON"/"OFF" position - every time you push it, the button returns back to normal position, it works like a mouse click. By the way this type of switch can be used directly with the motor, because it allows to send the required "pulse" signal. In my case I use IP54 switch that is perfect for garage environment.
-Standard wired magnetic sensors are connected using terminal points
-                                        <code>S1</code>
-                                        and
-                                        <code>COM</code>
-                                        . Polarity does not matter. There are lots of magnetic sensors of different forms and shapes. The only difference between them is the logic how they operate: they can be normally opened or normally closed. As a result they provide signal either when they become closed or opened.
-
-The Aqara T2 configuration.
-
-Work mode is
-                                        <code>pulse</code>
-                                        . Well, it's obvious that you need this mode to send a short pulse signal to the garage motor.
-Switch type is
-                                        <code>momentary</code>
-                                        . Someone said here that we must use
-                                        <code>toggle</code>
-                                        . I made tests and no other modes than
-                                        <code>momentary</code>
-                                        do work and provide desired behavior. 
-Interlock is
-                                        <code>OFF</code>
-                                        , we don't need this in our scenario.
-Pulse length is
-                                        <code>200 ms</code>
-                                        - that's default, I didn't change that. It works good.
-L1 operation mode:
-                                        <code>control_relay</code>
-                                        or
-                                        <code>decoupled</code>
-                                        .
-                                        <code>L1</code>
-                                        in Z2M corresponds to the connected switch. I use
-                                        <code>control_relay</code>
-                                        . In this case when switch is pressed, the Aqara T2 does everything automatically. However, if you would like to add some advanced logic, for example, if the switch should be ignored sometimes, then you should use
-                                        <code>decoupled</code>
-                                        mode and write your own script in HA that will manage all this.
-L2 operation mode:
-                                        <code>decoupled</code>
-                                        .
-                                        <code>L2</code>
-                                        corresponds to the magnetic sensors. The mode must be
-                                        <code>decoupled</code>
-                                        , because you just need to read this data and do not want to pass any command to the motor.
-
-Screenshot:
-
-
-
-How to get data when something is triggered in HA?
-Checking Z2M logs gives us information that when the switch or the magnetic sensors send a signal to Aqara T2 - we receive
-                                        <code>action</code>
-                                        with payload
-                                        <code>single_l1</code>
-                                        (switch click) or
-                                        <code>single_l2</code>
-                                        (magnetic sensor):
-
-You can write a binary sensor like this to catch the events:
-                                        <code class="language-multiline language-yaml" xml:space="preserve"><span class="token comment"># Binary sensor to detect if the garage door is closed, returns true if closed, false otherwise</span>
-<span class="token punctuation">-</span> <span class="token key atrule">trigger</span><span class="token punctuation">:</span>
-<span class="token trimmed">(27 more lines were trimmed)</span></code>
-                                        The logic above is very simple and not accurate. The main problem is the magnetic sensors. They are very simple and trigger only one event! I have a standard magnetic sensor that sends the event
-                                        <code>single_l2</code>
-                                        only when the door sensor goes to "open" position. It sends nothing when the sensor goes to "closed" position. Perhaps, you could buy another type of magnetic sensor that will send the signal when it goes to "closed" position - this seems to be more useful. But still does not look secure. 
-I was thinking that perhaps using an approach with
-                                        <code>from</code>
-                                        could do the trick:
-                                        <code class="language-multiline language-yaml" xml:space="preserve"><span class="token comment"># What if we catch the situation when the magnetic sensor stops sending the "open" action?</span>
-    <span class="token punctuation">-</span> <span class="token key atrule">platform</span><span class="token punctuation">:</span> state
-<span class="token trimmed">(3 more lines were trimmed)</span></code>
-                                        I was thinking that this approach could help to catch the situation when the sensor goes to "closed" position. However, it does not work like that. Indeed, this part of code will be triggered when
-                                        <code>single_l1</code>
-                                        event happens from the switch and that's not what we need. Also, the magnetic sensors do send only a single
-                                        <code>single_l2</code>
-                                        event, so we can't catch a situation when the sensors do stop sending them. Also there are no other events like
-                                        <code>double_l2</code>
-                                        or
-                                        <code>multiple_l2</code>
-                                        , etc.
-Conclusion.
-
-The Aqara T2 controls my garage door perfectly. I tested it almost for a year. I had only one issue when the relay did not respond, but that was my mistake - I connected the relay to the wrong router. After proper reconnection I have about 180LQI and the T2 has been very responsive.
-The light switch that I use to control the garage door by hand also works great, no issues.
-I think that the standard wired magnetic sensors are useless, because they send only one state in a single event. As a result this is not secure and informational. As proof of concept that magnetic sensors can be connected to Aqara T2 and Z2M - yes, that's possible, but it does not work as I would like or expect. I removed this magnetic sensor and use a normal Zigbee door sensor that sends proper events with both states explicitly defined and triggered:
-                                        <code>opened</code>
-                                        and
-                                        <code>closed</code>
-                                        . Perhaps, if the Aqara T2 integration in Z2M can be improved, the standard wired sensors could become helpful.
-                                    </div>
+Does it mean that this AC is not AUX-based?</div>
                                 </div>
                             </section>
                         </div>
@@ -2234,11 +2063,69 @@ I think that the standard wired magnetic sensors are useless, because they send 
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#133 Есть поддержка Tion BioX?</span>
+                                        <span class="issue">#129 4-pin connection</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">TionAPI/HA-tion</span></div>
+                                    <div>opened  in <span class="repo">GrKoR/esphome_aux_ac_component</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#128 Support for esp-idf framework?</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">GrKoR/esphome_aux_ac_component</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1371 Avoid blocking import warning</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jamesonuk in <span class="repo">KartoffelToby/better_thermostat</span></div>
+                                    <div class="comment">Hope this will be merged...</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#2941 Cannot use esp32_ble_tracker on ESP32C3</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by rpatel3001 in <span class="repo">esphome/issues</span></div>
+                                    <div class="comment">
+                                        After enabling verbose logging, I see that Bluetooth scan ends automatically after several minutes of working:
+                                        <code class="language-multiline" xml:space="preserve">...
+[02:37:47][V][bluetooth_proxy:061]: Proxying 2 packets
+<span class="token trimmed">(10 more lines were trimmed)</span></code>
+                                        Should we restart BT scan again after some time?
+And I'm not sure it it's related, but HA does not get any information from this proxy.
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2335,7 +2222,7 @@ I think that the standard wired magnetic sensors are useless, because they send 
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.29158110882958 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.37645448323069 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2396,7 +2283,7 @@ I think that the standard wired magnetic sensors are useless, because they send 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.24m out of 146m users</span>
+                                    <span class="gh">ranked 1.25m out of 146m users</span>
                                 </div>
                                 <div class="text">Published 37 public repositories</div>
                             </div>
@@ -2583,7 +2470,7 @@ I think that the standard wired magnetic sensors are useless, because they send 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 619k out of 209m repositories</span>
+                                    <span class="gh">ranked 619k out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 20 times</div>
                             </div>
@@ -2673,7 +2560,7 @@ I think that the standard wired magnetic sensors are useless, because they send 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 503k out of 209m repositories</span>
+                                    <span class="gh">ranked 503k out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 68 stars</div>
                             </div>
@@ -2822,7 +2709,7 @@ I think that the standard wired magnetic sensors are useless, because they send 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2024, 05:13:01 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 05:11:00 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
