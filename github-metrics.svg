@@ -131,17 +131,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 823kb of code in 780 edited files across 311 commits over last 22 days</small>
+                <small>estimation from 798kb of code in 775 edited files across 305 commits over last 23 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="126.78510181315661" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="126.78510181315661" y="0" width="119.6738316045354" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="246.45893341769204" y="0" width="103.38339354989095" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="349.84232696758295" y="0" width="71.1395081666972" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="420.9818351342802" y="0" width="39.018164865719854" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.40024426561375" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="127.40024426561375" y="0" width="118.02261966505495" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="245.4228639306687" y="0" width="103.8849943952753" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="349.307858325944" y="0" width="71.48466647705409" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="420.7925248029981" y="0" width="39.20747519700189" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -155,7 +155,7 @@
                             <small>
                                 <div>584 lines</div>
                                 <div>33.1 kB</div>
-                                <div>27.56%</div>
+                                <div>27.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -166,9 +166,9 @@
                                 Shell
                             </div>
                             <small>
-                                <div>750 lines</div>
-                                <div>31.2 kB</div>
-                                <div>26.02%</div>
+                                <div>722 lines</div>
+                                <div>30.6 kB</div>
+                                <div>25.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -181,7 +181,7 @@
                             <small>
                                 <div>678 lines</div>
                                 <div>27 kB</div>
-                                <div>22.47%</div>
+                                <div>22.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -194,7 +194,7 @@
                             <small>
                                 <div>744 lines</div>
                                 <div>18.5 kB</div>
-                                <div>15.47%</div>
+                                <div>15.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -207,7 +207,7 @@
                             <small>
                                 <div>291 lines</div>
                                 <div>10.1 kB</div>
-                                <div>8.48%</div>
+                                <div>8.52%</div>
                             </small>
                         </div>
                     </section>
@@ -708,6 +708,7 @@
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -2300,7 +2301,7 @@ If this feature of deleting uploaded images would be implemented, I think it sol
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.76386036960989 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.84873374401094 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2361,7 +2362,7 @@ If this feature of deleting uploaded images would be implemented, I think it sol
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.13m out of 141m users</span>
+                                    <span class="gh">ranked 1.13m out of 149m users</span>
                                 </div>
                                 <div class="text">Published 40 public repositories</div>
                             </div>
@@ -2450,7 +2451,7 @@ If this feature of deleting uploaded images would be implemented, I think it sol
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="61.53266331658291 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.42713567839196 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2469,7 +2470,7 @@ If this feature of deleting uploaded images would be implemented, I think it sol
                                     <span class="prefix"></span>
                                     Stargazer
                                 </div>
-                                <div class="text">Starred 80 repositories</div>
+                                <div class="text">Starred 85 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2554,7 +2555,7 @@ If this feature of deleting uploaded images would be implemented, I think it sol
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 480k out of 141m users</span>
+                                    <span class="gh">ranked 481k out of 149m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -2625,7 +2626,7 @@ If this feature of deleting uploaded images would be implemented, I think it sol
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 505k out of 201m repositories</span>
+                                    <span class="gh">ranked 505k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 70 stars</div>
                             </div>
@@ -2741,7 +2742,7 @@ If this feature of deleting uploaded images would be implemented, I think it sol
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Dec 2024, 04:08:32 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2024, 04:13:10 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
