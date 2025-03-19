@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4936 Commits
+                            4937 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -131,14 +131,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 373kb of code in 282 edited files across 152 commits over last 30 days</small>
+                <small>estimation from 380kb of code in 267 edited files across 134 commits over last 27 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.1438496907007" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="412.1438496907007" y="0" width="47.85615030929937" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.74219899538286" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="414.74219899538286" y="0" width="45.25780100461718" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -150,9 +150,9 @@
                                 PHP
                             </div>
                             <small>
-                                <div>5.12k lines</div>
-                                <div>167 kB</div>
-                                <div>89.6%</div>
+                                <div>5.42k lines</div>
+                                <div>177 kB</div>
+                                <div>90.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -165,7 +165,7 @@
                             <small>
                                 <div>479 lines</div>
                                 <div>19.3 kB</div>
-                                <div>10.4%</div>
+                                <div>9.84%</div>
                             </small>
                         </div>
                     </section>
@@ -305,6 +305,7 @@
                                 <g transform="translate(165, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1895,7 +1896,7 @@ npm error sha512-gk5Htsn0tpr2Zavj46HD+V/8NXORhYfSXh+V+n9vVfeZ4MAWAuze6MEhb95myN0
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.50924024640656 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.59411362080768 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2220,7 +2221,7 @@ npm error sha512-gk5Htsn0tpr2Zavj46HD+V/8NXORhYfSXh+V+n9vVfeZ4MAWAuze6MEhb95myN0
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 520k out of 226m repositories</span>
+                                    <span class="gh">ranked 520k out of 233m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 70 stars</div>
                             </div>
@@ -2336,7 +2337,7 @@ npm error sha512-gk5Htsn0tpr2Zavj46HD+V/8NXORhYfSXh+V+n9vVfeZ4MAWAuze6MEhb95myN0
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Mar 2025, 04:17:13 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Mar 2025, 04:16:40 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
