@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1394" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1148" class="">
     <defs>
         <style/>
     </defs>
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5093 Commits
+                            5112 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -131,15 +131,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.29mb of code in 804 edited files across 323 commits over last 30 days</small>
+                <small>estimation from 1.34mb of code in 832 edited files across 327 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="315.12994200203656" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="315.12994200203656" y="0" width="110.0057555230885" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="425.13569752512507" y="0" width="34.864302474874926" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="322.5892547407167" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="322.5892547407167" y="0" width="104.34159451672625" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="426.9308492574429" y="0" width="33.069150742557085" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -151,9 +151,9 @@
                                 PHP
                             </div>
                             <small>
-                                <div>10.4k lines</div>
-                                <div>355 kB</div>
-                                <div>68.51%</div>
+                                <div>11.3k lines</div>
+                                <div>384 kB</div>
+                                <div>70.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -166,7 +166,7 @@
                             <small>
                                 <div>3.53k lines</div>
                                 <div>124 kB</div>
-                                <div>23.91%</div>
+                                <div>22.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -179,7 +179,7 @@
                             <small>
                                 <div>1.77k lines</div>
                                 <div>39.3 kB</div>
-                                <div>7.58%</div>
+                                <div>7.19%</div>
                             </small>
                         </div>
                     </section>
@@ -349,13 +349,14 @@
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                                 <g transform="translate(225, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1828,57 +1829,6 @@ P.S. If you have a TODO list which you are comfortable to make a publicly availa
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#93470 Starline: "hand break" sensor is always OFF</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ildar170975 in <span class="repo">home-assistant/core</span></div>
-                                    <div class="comment">Not stale</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#19 Any other services worth implementing?</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by rvalitov in <span class="repo">McCzarny/upload-image</span></div>
-                                    <div class="comment">Another idea to upload to FTP as to very affordable space of any hosting provider.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#19 Any other services worth implementing?</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by rvalitov in <span class="repo">McCzarny/upload-image</span></div>
-                                    <div class="comment">Cloudinary seems to be very interesting. The free plan has credits that can store minimum 2Gb of images. That seems to be more than enough as a temporary space for screenshots. What do you think about it?</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1902,7 +1852,7 @@ P.S. If you have a TODO list which you are comfortable to make a publicly availa
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2025, 05:22:04 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2025, 05:21:31 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
