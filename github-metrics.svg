@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1452" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1435" class="">
     <defs>
         <style/>
     </defs>
@@ -44,7 +44,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            831 issue comments
+                            832 issue comments
                         </div>
                     </section>
                 </div>
@@ -131,17 +131,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 617kb of code in 461 edited files across 208 commits over last 30 days</small>
+                <small>estimation from 553kb of code in 380 edited files across 185 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.76224097451427" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="269.76224097451427" y="0" width="106.46764095409847" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="376.22988192861277" y="0" width="36.79225220320528" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="413.02213413181806" y="0" width="28.61010922453979" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="441.63224335635783" y="0" width="18.36775664364218" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.02033672689623" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="257.02033672689623" y="0" width="110.9456454753864" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="367.9659822022827" y="0" width="37.580595064954274" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="405.54657726723696" y="0" width="33.16281706806025" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="438.7093943352972" y="0" width="21.290605664702838" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -153,9 +153,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.97k lines</div>
-                                <div>137 kB</div>
-                                <div>58.64%</div>
+                                <div>3.25k lines</div>
+                                <div>113 kB</div>
+                                <div>55.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -166,9 +166,9 @@
                                 HTML
                             </div>
                             <small>
-                                <div>2.25k lines</div>
-                                <div>54.4 kB</div>
-                                <div>23.15%</div>
+                                <div>2.01k lines</div>
+                                <div>48.9 kB</div>
+                                <div>24.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -179,9 +179,9 @@
                                 Less
                             </div>
                             <small>
-                                <div>1.03k lines</div>
-                                <div>18.8 kB</div>
-                                <div>8%</div>
+                                <div>886 lines</div>
+                                <div>16.5 kB</div>
+                                <div>8.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -194,7 +194,7 @@
                             <small>
                                 <div>372 lines</div>
                                 <div>14.6 kB</div>
-                                <div>6.22%</div>
+                                <div>7.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -207,7 +207,7 @@
                             <small>
                                 <div>291 lines</div>
                                 <div>9.39 kB</div>
-                                <div>3.99%</div>
+                                <div>4.63%</div>
                             </small>
                         </div>
                     </section>
@@ -476,6 +476,7 @@
                                 </g>
                                 <g transform="translate(375, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1919,6 +1920,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#93 Add `IPinfoLite` to support Lite API</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by silvanocerza in <span class="repo">ipinfo/php</span></div>
+                                    <div class="comment">Please write a note when you're done</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#6365 ESP32-C6 crashes at runtime while using I2C</span>
                                     </div>
                                 </div>
@@ -1987,24 +2005,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#129123 Sensor with device_class enum has always state 'unknown' in trigger-based mode</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by rvalitov in <span class="repo">home-assistant/core</span></div>
-                                    <div class="comment">What is not true? I absolutely agree what you say about the initial unknown state. I never said that you were wrong about this. Instead I said that I know that and it's a well known fact.
- The problem is that for enum device class the trigger is supposed to change it but it does not.</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2028,7 +2028,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2025, 05:34:38 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2025, 05:30:01 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
